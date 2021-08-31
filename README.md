@@ -18,3 +18,6 @@ Now Apple supports push notifications based on the HTTP/2 network protocol. Here
 ---------------------------------------------------------------------
 
 => Any further enhancements are warmly welcomed.
+
+
+**For more ref:** https://developer.apple.com/forums/thread/62191?answerId=176107022#176107022
